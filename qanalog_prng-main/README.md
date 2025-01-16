@@ -45,10 +45,12 @@ in the directory TESTU01-Statistical-Test-Suite/ :
 gcc teste.c -o test -Iinclude - Ilib -lprobdist -ltestu01 -lmylib -lm && ./test
 
 
-  ---------------	
+         ---------------	
 	|TESTU01 1.2.3|	 
-	---------------	
- Which test do you want to do?
+	---------------
+
+         Which test do you want to do?
+
 	 0 - Rabbit 
  	 1 - Alphabit 
  	 2 - BlockAlphabit 
