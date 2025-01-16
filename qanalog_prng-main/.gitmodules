@@ -1,0 +1,3 @@
+[submodule "NIST-Statistical-Test-Suite"]
+	path = NIST-Statistical-Test-Suite
+	url = https://github.com/afonso12325/NIST-Statistical-Test-Suite
